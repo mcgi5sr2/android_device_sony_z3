@@ -2229,9 +2229,9 @@
         <ctl name="HPHL DAC Switch" value="1" />
         <ctl name="COMP1 Switch" value="0" />
         <!--95 % of 20 register: 0x1AE-->
-        <ctl name="HPHL Volume" value="19" />
+        <ctl name="HPHL Volume" value="13" />
         <!--95 % of 20 register: 0x1B4-->
-        <ctl name="HPHR Volume" value="19" />
+        <ctl name="HPHR Volume" value="13" />
         <!--68 % of 124 (rounded) register: 0x2B7-->
         <ctl name="RX1 Digital Volume" value="84" />
         <!--68 % of 124 (rounded) register: 0x2BF-->
